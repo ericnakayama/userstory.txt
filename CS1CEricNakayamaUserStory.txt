@@ -1,0 +1,22 @@
+CS1C Eric Nakayama's User Story (Team Super Scrum)
+
+#1) As a user, I want to be able to produce shape objects so that the screen can display the appropriate shapes with the given input.
+    a) Description:
+	A site user should be able to produce shape object by giving it certain shape properties and choosing the properties that will alter its form.
+	What a 2D shape model would look like when added by a user depends on the shape id. (see tasks)
+    b) Tasks:
+	As a site user, I can come up with an appropriate shape to add in the list. 
+    c) Tests:
+	Verify that the shape is given the appropriate shape properties that alter the form.
+	Verify that the shape is given an appropriate shape id that intializes number of the shape.
+    d) Assignee
+	
+    e) Estimation: 24
+    f) Priority: 1
+    g) Done:
+	User is able to come up with a 2D Graphic Model.
+	User has produced a shape listing report sorted by given shape id.
+	User has included all shape properties in the shape listing report.
+	An appropriate shape is recorded in the shape listing report.
+	A list of shapes are displayed under given shape properties and ids.
+	All tasks, test conditions satisfied.
